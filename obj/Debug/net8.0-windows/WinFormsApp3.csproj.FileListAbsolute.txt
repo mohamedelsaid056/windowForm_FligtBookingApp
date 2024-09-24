@@ -1,0 +1,16 @@
+E:\try programming\c#\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+E:\try programming\c#\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+E:\try programming\c#\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+E:\try programming\c#\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+E:\try programming\c#\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+E:\try programming\c#\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
